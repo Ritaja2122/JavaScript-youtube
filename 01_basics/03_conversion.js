@@ -12,3 +12,20 @@ console.log(typeof age);
 //"" -> false
 // "hitesh" -> true
 
+console.log(2**3) // power
+let str1 = "ritaja "
+let str2 = "mandal"
+let str3 = str1 + str2
+console.log(str3)
+
+console.log(1 + "2");
+console.log(1 + "rit");
+console.log("1" + 2 + 2); // string first e thakle sob kota ke string er moto treat kore
+console.log(1 + 2 + "3"); // string last e thakle orm hoina
+console.log(1 + "2" + 3);
+
+
+
+
+
+
