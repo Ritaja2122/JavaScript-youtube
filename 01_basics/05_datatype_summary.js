@@ -2,7 +2,7 @@
 
 // 7 TYPES : String, Number, Boolean, Null, undefined, Symbol, BigInt
 
-//Reference type or Non-Primitive:
+//Reference type or Non-Primitive: call by reference
 // Array, Objects, Functions
 
 // JavaScript is a dynamically typed language
@@ -18,7 +18,11 @@ let myObj = {         //object
 
 }
 
-const myFunction = function(){
+const myFunction = function(){ // object function
     console.log("momo");
     
 }
+
+/*******************************************************************************************/
+//Stack(Primitive), Heap(Non-Primitive)
+ 
