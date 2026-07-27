@@ -24,6 +24,7 @@ sliced = string_2.slice(2) //prints starting from index 2 to end
 console.log(sliced)
 sliced = string_2.slice(-5,-1) // negative indexing starts from end of the string with -1 .
 console.log(sliced)
+
 ///-------------------------------------------------------------------------------------------------
 
 console.log(string_2.replace('rit','roy'))
